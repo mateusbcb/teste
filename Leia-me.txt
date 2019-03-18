@@ -1,0 +1,8 @@
+Esta é uma página HTML 5 Básica, com toda a estrutura pronta para a criação de qualquer site.
+
+Sugestão de uso: fazer uma cópia mantendo essa estrutura base salva para agilizar o processo de teste de elemento.
+
+Sugestão de rotina de uso: fazer uma cópia da pasta por inteiro, mantendo a original intacta.
+Faça as alterações e testes na cópia.
+
+Desta forma sempre terá uma página com a estrutura básica prota para uso, agilizando o processo de desenvolvimento.
